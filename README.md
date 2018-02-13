@@ -1,4 +1,4 @@
 # test-rep
 First rep
 
-First commint on readme-edits branch
+First commit on readme-edits branch
